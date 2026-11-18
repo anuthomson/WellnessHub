@@ -26,3 +26,6 @@ Design/Class diagram.pdf
 Design/Class diagram.odg
 node_modules/
 .env
+# Dependencies and secrets
+node_modules/
+.env
